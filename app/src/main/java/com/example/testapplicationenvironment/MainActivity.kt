@@ -63,7 +63,6 @@ private fun CustomButtonPreview() {
     TestApplicationEnvironmentTheme {
         Button(onClick = { /*TODO*/ }) {
             Text("Hello World!")
-            Text("cipa cipa cipa")
         }
     }
 }
